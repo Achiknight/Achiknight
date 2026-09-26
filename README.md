@@ -1,223 +1,87 @@
 <div align="center">
 
-# ⚡ ACHIKNIGHT
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+1st+Year;Python+%7C+Java+%7C+C+%7C+C%2B%2B;Building+things+that+actually+work;Future+Backend+%2F+Game+Feature+Developer" alt="Typing SVG" />
+<img src="./assets/header.png" width="100%" alt="Achiknight Fate-inspired developer banner"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0ea5e9,100:7c3aed&height=140&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C+%7C+C%2B%2B;Backend+%2F+Full-Stack+Development;Computer+Vision+%7C+OpenCV;Motorsport+%7C+Gaming+%7C+Building" alt="Typing animation"/>
 
 </div>
 
 ---
 
-## `> whoami`
+<div align="center">
 
-```python
-class Achiknight:
+### `CODE • BUILD • PLAY • EXPLORE`
 
-    name = "Achintya"
-    education = "B.Tech CSE"
-    year = "1st Year"
-    university = "Graphic Era Hill University"
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,vscode,linux,mysql,sqlite,opencv" />
 
-    interests = [
-        "Software Development",
-        "Backend Development",
-        "Game Development",
-        "Computer Vision",
-        "Motorsport",
-        "Building random things"
-    ]
+</div>
 
-    currently_learning = [
-        "Java",
-        "C / C++",
-        "Git & GitHub",
-        "Full-Stack Development",
-        "OpenCV"
-    ]
+---
 
-    goal = "Become a feature-focused software developer"
+## ⚔️ `PROFILE`
+
+```text
+NAME        → Achiknight
+ROLE        → B.Tech CSE Student
+YEAR        → 1st Year
+FOCUS       → Software Development
+CURRENTLY   → Java • C/C++ • Git • Full-Stack • OpenCV
+
+INTERESTS
+├── Backend Development
+├── Game Development
+├── Computer Vision
+├── Motorsport
+└── Building questionable projects at questionable hours
 ```
 
 <div align="center">
 
-### 🧠 `BUILD • BREAK • DEBUG • REPEAT`
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 
 </div>
 
 ---
 
-## ⚙️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,sql" />
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,sqlite,opencv" />
-
-</div>
-
----
-
-## 🛠️ Currently Building
-
-### 📓 Journal Day Tracker
-
-A personal desktop journaling / day-tracking application.
-
-**Stack**
-
-`Python` `CustomTkinter` `SQLite` `MySQL` `JSON` `Git`
+## 🔥 `CURRENT ARC`
 
 ```text
-Journal-Day-Tracker
-│
-├── Backend/
-│   ├── configuration
-│   ├── database logic
-│   └── application logic
-│
-├── DBFile/
-│   ├── connections
-│   └── journal types
-│
-├── Gui/
-│   ├── Front Page
-│   ├── Settings
-│   ├── Track Selection
-│   ├── Writer Page
-│   └── Name Journal
-│
-├── utility/
-│
-└── Main.py
-```
-
-> Building it taught me more about application architecture than another tutorial ever could.
-
----
-
-## 🧪 Things I'm Exploring
-
-<div align="center">
-
-| 🔬 Area      | 🚧 Status          |
-| :----------- | :----------------- |
-| Python       | ████████████████░░ |
-| Git / GitHub | ███████████████░░░ |
-| Java         | ████████████░░░░░░ |
-| C            | ████████████░░░░░░ |
-| C++          | ████████░░░░░░░░░░ |
-| Full-Stack   | ████████░░░░░░░░░░ |
-| OpenCV       | ███████░░░░░░░░░░░ |
-
-</div>
-
----
-
-# 🏎️ Beyond Code
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7TKMGpxx6f0kY7UQ/giphy.gif" width="500">
-
-</div>
-
-### Motorsport
-
-F1 • WEC • MotoGP • F2 • F3
-
-I like the engineering side of motorsport just as much as the racing itself.
-
-Things like:
-
-* Aerodynamics
-* Vehicle dynamics
-* ECU modes
-* Active aero
-* Telemetry
-* Race strategy
-* Performance engineering
-
-Basically:
-
-```text
-Code
- ↓
-Data
- ↓
-Performance
- ↓
-Optimization
- ↓
-MORE PERFORMANCE
-```
-
----
-
-# 🎮 Gaming
-
-I like games, especially **co-op games with friends**.
-
-I'm also interested in what happens behind the game:
-
-```text
-Gameplay
+Python
    ↓
-Systems
+Java
    ↓
-Features
+C / C++
    ↓
-Code
+Git & GitHub
    ↓
-Optimization
+Full-Stack
+   ↓
+Backend
+   ↓
+Game Features
 ```
 
-### 🎯 Long-term direction
-
-```text
-Software Development
-        │
-        ├── Backend
-        │
-        ├── Full-Stack
-        │
-        └── Game Features
-                │
-                ▼
-          Feature Developer
-```
+> Learn it. Build it. Break it. Debug it. Understand it.
 
 ---
 
-# 👁️ Computer Vision
+## 🏎️ `OUTSIDE THE TERMINAL`
 
-Currently exploring **OpenCV** with a focus on actual computer vision rather than jumping straight into ML.
+**F1 • WEC • MotoGP • F2 • F3**
 
-```python
-import cv2
+Motorsport isn't just about watching races — I'm interested in the engineering behind them:
 
-image = cv2.imread("something.jpg")
+`AERODYNAMICS` • `TELEMETRY` • `VEHICLE DYNAMICS` • `ECU` • `PERFORMANCE`
 
-cv2.imshow("Vision", image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
-```
+And when I'm not doing that...
 
-Small experiments → bigger projects.
+**🎮 Gaming with friends.**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 `GITHUB`
 
 <div align="center">
 
@@ -225,64 +89,22 @@ Small experiments → bigger projects.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achiknight&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Achiknight&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Achiknight&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
 ---
 
-# 📈 Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achiknight&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+### `UNLIMITED CODE WORKS`
 
-</div>
-
----
-
-# 💭 Current Mindset
-
-```text
-"I don't want to just learn technologies.
-
-I want to build things with them."
-```
-
-I'm currently in the stage of:
-
-```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-       BREAK IT
-          ↓
-       DEBUG IT
-          ↓
-      UNDERSTAND IT
-          ↓
-        REPEAT
-```
-
----
-
-<div align="center">
-
-### ⚡ SOMEWHERE BETWEEN `CODE` AND `CHAOS`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:111827&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:ef4444&height=120&section=footer"/>
 
 </div>
