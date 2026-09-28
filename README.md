@@ -23,17 +23,17 @@
 # ⚔️ `WHO AM I?`
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   NAME       → Achiknight                    │
-│   EDUCATION  → B.Tech CSE                    │
-│   YEAR       → 1st Year                      │
-│   UNIVERSITY → Graphic Era Hill University   │
-│                                              │
-│   FOCUS      → Software Development          │
-│   CURRENTLY  → Learning • Building • Debugging│
-│                                              │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────────╮
+│                                                │
+│   NAME       → Achiknight                      │
+│   EDUCATION  → B.Tech CSE                      │
+│   YEAR       → 1st Year                        │
+│   UNIVERSITY → Graphic Era Hill University     │
+│                                                │
+│   FOCUS      → Software Development            │
+│   CURRENTLY  → Learning • Building • Debugging │
+│                                                │
+╰────────────────────────────────────────────────╯
 ```
 
 I'm a first-year CSE student interested in **building software rather than just collecting technologies**.
