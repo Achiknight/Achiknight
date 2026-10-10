@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" alt="Achiknight Fate-inspired developer banner"/>
 
 <br>
 
